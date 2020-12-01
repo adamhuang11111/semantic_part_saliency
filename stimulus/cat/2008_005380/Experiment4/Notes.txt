@@ -1,0 +1,3 @@
+1. These are tested for the models only to verify Biederman's theory
+2. 2/3 parts stimuli not working for the models
+3. spatial rearrangement however do plays a role. 

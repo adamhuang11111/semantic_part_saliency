@@ -1,0 +1,7 @@
+1. Deleting more parts with different area do not mean more inaccurate (one set of stimuli body vs. 3 legs)
+2. Deleting more parts with the same area do not mean more inaccurate (3 legs vs. two ears)
+3. Density of parts is the thing human clearly cares about (square pixel at denser area vs. square pixel at less dense area)
+This somehows supports Biederman's theory.
+
+2. 1107 + 1439 + 1171 vs 1099 + 2511
+3. 1144, 2760

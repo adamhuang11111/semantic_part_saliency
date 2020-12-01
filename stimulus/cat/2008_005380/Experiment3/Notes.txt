@@ -1,0 +1,4 @@
+0. Number of parts presented is again not an issue from the bottom up as well
+1. Make connected parts with same pixel area as disconnected parts 
+2. Check reaction time and accuracy of naming
+

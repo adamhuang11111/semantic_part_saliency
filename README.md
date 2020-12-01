@@ -9,5 +9,16 @@ This the public repository for the project: "Comparing the Saliency of Semantic 
 ## Rdms Visualization
 Our Representation Dissimilarity Matrices (Rdms) and raw data will also be avaliable in this repository. Sample Rdms:
 <img src= plots/Rdms.png width="400" height="400" />
+Top Left: Last Convolutional Layer
+Top Right: First Convolutional Layer
+Bottom Left: Prediction Layer
+Bottom Right: Human’s Prediction
+
 
 ## Stimuli Visualization
+Full image
+<img src= plots/full.png width="400" height="400" />
+External part deletion
+<img src= plots/2008_003519_white_Deleted_Head.png width="400" height="400" />
+Internal part deletion
+<img src= plots/2008_003519_white_Deleted_Left_Eye.png width="400" height="400" />

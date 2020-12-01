@@ -1,0 +1,5 @@
+1. A part sourounding is defined as the region do not surpass a part neighborhood on a semantic part parsed graph.
+2. In the sourounding part/parts clearly more influential than square pixel. 
+3. Outside of the sourounding, regardless of part or square pixel, first care about density.
+
+Easy to make stimuli.
